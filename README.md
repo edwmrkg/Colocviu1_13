@@ -1,2 +1,3 @@
 # eim-midterm1
-Test
+GRIGORE Edwin-Mark
+343C1
